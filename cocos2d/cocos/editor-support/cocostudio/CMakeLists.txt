@@ -154,7 +154,6 @@ set(COCOS_CS_SRC
     editor-support/cocostudio/WidgetReader/SliderReader/SliderReader.cpp
     editor-support/cocostudio/WidgetReader/PageViewReader/PageViewReader.cpp
     editor-support/cocostudio/WidgetReader/TextReader/TextReader.cpp
-    editor-support/cocostudio/WidgetReader/UserCameraReader/UserCameraReader.cpp
     editor-support/cocostudio/WidgetReader/SkeletonReader/BoneNodeReader.cpp
     editor-support/cocostudio/WidgetReader/SkeletonReader/SkeletonNodeReader.cpp
     editor-support/cocostudio/WidgetReader/TextAtlasReader/TextAtlasReader.cpp
